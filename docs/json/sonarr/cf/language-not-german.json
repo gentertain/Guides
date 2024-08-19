@@ -1,0 +1,20 @@
+{
+  "trash_id": "e501f013374dd67ae43896c702ab53d7",
+  "trash_scores": {
+    "default": -10000
+  },
+  "trash_description": "Language: German Only",
+  "name": "Language: Not German",
+  "includeCustomFormatWhenRenaming": false,
+  "specifications": [
+    {
+      "name": "Not German Language",
+      "implementation": "LanguageSpecification",
+      "negate": true,
+      "required": false,
+      "fields": {
+        "value": 4
+      }
+    }
+  ]
+}
