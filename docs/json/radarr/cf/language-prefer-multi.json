@@ -1,0 +1,29 @@
+{
+  "trash_id": "75ed1efb5323fd91b2b0ca71a0e74610",
+  "trash_scores": {
+    "default": 101
+  },
+  "trash_description": "Prefer Multiple",
+  "name": "Language: Prefer Multi",
+  "includeCustomFormatWhenRenaming": false,
+  "specifications": [
+    {
+      "name": "English",
+      "implementation": "LanguageSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": 1
+      }
+    },
+    {
+      "name": "German",
+      "implementation": "LanguageSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": 4
+      }
+    }
+  ]
+}
